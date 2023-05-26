@@ -38,12 +38,6 @@ const studentSchema = new Schema(
       type: String,
       required: true,
     },
-    admin: {
-      type: Boolean,
-    },
-    Approved: {
-      type: Boolean,
-    },
   },
   {
     timestamps: true,
