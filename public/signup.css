@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    
+}body{
+    background-color: lightgray;
+}
+.container{
+    margin-top: 50px;
+    max-width: 60%;
+
+    padding: 20px 20px;
+    border: 2px solid rgb(216, 212, 212);
+    border-radius: 2%;
+    background-color: white;
+}
+.inner-container h1{
+    margin-bottom: 50px;
+}
